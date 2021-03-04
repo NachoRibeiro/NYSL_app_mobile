@@ -1,1 +1,0 @@
-# nysl_app_mobile
